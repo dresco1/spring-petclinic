@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       -
-        image: dreco1/spring-petclinic:1.0
+        image: dresco1/spring-petclinic:1.0
         name: petclinic
 ---
 apiVersion: v1
