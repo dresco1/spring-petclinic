@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       -
-        image: https://hub.docker.com/trantran1/spring-petclinic:1.0
+        image: dreco1/spring-petclinic:1.0
         name: petclinic
 ---
 apiVersion: v1
